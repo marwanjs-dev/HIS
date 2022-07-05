@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMD303 Trial", "BMD303 Trial\BMD303 Trial.csproj", "{A2BC9C88-AD1C-4EFD-9D88-625B9D3509B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2BC9C88-AD1C-4EFD-9D88-625B9D3509B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2BC9C88-AD1C-4EFD-9D88-625B9D3509B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2BC9C88-AD1C-4EFD-9D88-625B9D3509B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2BC9C88-AD1C-4EFD-9D88-625B9D3509B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB035546-A6F3-48DC-B002-8EE078A34264}
+	EndGlobalSection
+EndGlobal
